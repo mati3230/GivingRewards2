@@ -1,0 +1,11 @@
+numpy
+gym
+h5py
+stable-baselines3
+tensorflow
+git+git://github.com/deepmind/graph_nets.git
+open3d
+tqdm
+scipy
+scikit-learn
+igraph

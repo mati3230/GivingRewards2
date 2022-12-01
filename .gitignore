@@ -1,0 +1,10 @@
+*.h5
+*.pyd
+*.dll
+exp_data_pcg
+exp_data_scannet
+logs
+models
+
+__pycache__
+partition/__pycache__
